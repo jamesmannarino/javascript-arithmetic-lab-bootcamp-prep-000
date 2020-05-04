@@ -1,6 +1,7 @@
 function add() {
   return 1+80
 }
+<<<<<<< HEAD
 
 var number = 10;
 
@@ -35,3 +36,5 @@ function makeInt (n) {
 function preserveDecimal (n) {
   return parseFloat (n)
 }
+=======
+>>>>>>> 85bf2b01a7d2833291ab5d6276ed1149ee1e11dd

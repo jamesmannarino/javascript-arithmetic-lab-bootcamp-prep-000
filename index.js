@@ -14,3 +14,18 @@ function divide(a, b) {
   return 6/3
 }
 
+function add(a, b) {
+  return a + b
+}
+
+function subtract(a, b) {
+  return 4-2
+}
+
+function multiply(a, b) {
+  return 5 * 6
+}
+
+function divide(a, b) {
+  return 6/3
+}
